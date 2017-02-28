@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1481563637358">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="505827467" ref="index"/>
+    <file name="prologue.css" crc="4104609848" ref="prologue"/>
+    <file name="tragic-ending.css" crc="243598439" ref="tragic-ending"/>
+    <file name="happy-ending.css" crc="4294353799" ref="happy-ending"/>
+  </folder>
+  <folder name="assets">
+    <file name="rapunzel-theme.mp3" crc="397798475" seo="true" mt="1450256304000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="museutils.js" crc="163421577" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="museconfig.js" crc="168988563" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:tragic-ending:prologue:happy-ending"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:tragic-ending:prologue:happy-ending"/>
+  </folder>
+  <folder name="images">
+    <file name="dronecartoon0023.png" crc="253575448" seo="true" ref="index"/>
+    <file name="planet dmash-u243.png" crc="4045696113" ref="index"/>
+    <file name="skyline-1566218_1280-wthouttower-purple.png" crc="413917921" seo="true" ref="index"/>
+    <file name="u503-3.png" crc="4022211947" ref="index"/>
+    <file name="polygonal-765982.png" crc="4270315086" ref="index"/>
+    <file name="tower-low poly.png" crc="3878936369" seo="true" ref="index"/>
+    <file name="electric-hair.png" crc="3863722844" seo="true" ref="index"/>
+    <file name="free-cloud.png" crc="10345290" seo="true" ref="index"/>
+    <file name="lightning_ring.gif" crc="363595040" seo="true" ref="index"/>
+    <file name="u1045-4.png" crc="4138042586" ref="index"/>
+    <file name="u1223-4.png" crc="4191203152" ref="index"/>
+    <file name="design-1745096.jpg" crc="3860103300" ref="happy-ending"/>
+    <file name="dark-theme.png" crc="94427098" ref="tragic-ending"/>
+    <file name="u1377-4.png" crc="3878423466" ref="prologue"/>
+    <file name="4.jpg" crc="4193874807" ref="prologue"/>
+    <file name="u1513-4.png" crc="4168596892" ref="index"/>
+    <file name="arrow-1293400_1280.png" crc="300408491" seo="true" ref="index"/>
+    <file name="happy ending characters.png" crc="134082675" seo="true" ref="happy-ending"/>
+    <file name="u1567-4.png" crc="379224833" ref="happy-ending"/>
+    <file name="oval-flourish-frame.png" crc="202762627" seo="true" ref="happy-ending:tragic-ending"/>
+    <file name="u1584-4.png" crc="4001030483" ref="tragic-ending"/>
+    <file name="evil rapunzel2.png" crc="3772231894" seo="true" ref="tragic-ending"/>
+    <file name="rapunzel at the window.png" crc="4042930374" seo="true" ref="index"/>
+    <file name="interest-u531.png" crc="283235397" ref="index"/>
+    <file name="acceptance-u548.png" crc="4201030789" ref="index"/>
+    <file name="surprise-u558.png" crc="481749694" ref="index"/>
+    <file name="distraction-u568.png" crc="242644980" ref="index"/>
+    <file name="old cinema.jpg" crc="3994126217" seo="true" ref="index"/>
+    <file name="u2040-4.png" crc="461497176" ref="index"/>
+    <file name="rocket-1374247_1280.png" crc="3783808496" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4029371571" seo="true" mt="1481563586606" redirect="true"/>
+  <file name="tragic-ending.html" crc="4062220005" seo="true" mt="1481552186615" redirect="true"/>
+  <file name="prologue.html" crc="4010064878" seo="true" mt="1481552186616" redirect="true"/>
+  <file name="happy-ending.html" crc="3964846343" seo="true" mt="1481552751641" redirect="true"/>
+</manifest>
